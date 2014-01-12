@@ -1,0 +1,14 @@
+{
+  "name": "montserrat-bold",
+  "repo": "typefaces/montserrat-bold",
+  "description": "The Montserrat bold typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "fonts": [
+    "fonts/montserrat-bold.ttf",
+    "fonts/montserrat-bold.woff"
+  ]
+}
